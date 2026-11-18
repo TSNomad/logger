@@ -1,9 +1,9 @@
 {
   "name": "@tsnomad/logger",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Logger strategy contract with the eight levels and logException, the TypeScript counterpart to PHPNomad's logger package",
   "type": "module",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "homepage": "https://github.com/tsnomad/logger#readme",
   "bugs": {
     "url": "https://github.com/tsnomad/logger/issues"
